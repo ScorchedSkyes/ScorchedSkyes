@@ -29,6 +29,9 @@ Please feel free to reach out!
 
 
 I have a passion for learninng code, if you have any recommendations or tips let me know!
+
+
+![Set your heart ablaze](https://media.tenor.com/jvbPYIiSRr4AAAAC/rengoku-kyojuro.gif)
 <!---
 ScorchedSkyes/ScorchedSkyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
