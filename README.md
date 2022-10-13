@@ -3,7 +3,7 @@
 
 
 ### 🔥I am currently learning Full stack development
-#### With a focus on front end development
+#### With a focus on front end coding
 ```javascript
 function hello(name) {
   console.log("Hello, " + name + "!");
