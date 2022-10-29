@@ -28,7 +28,7 @@ This is a link to [My Linkedin](https://www.linkedin.com/in/kristopher-harder-25
 Please feel free to reach out!
 
 
-I have a passion for learninng code, if you have any recommendations or tips let me know!
+I have a passion for learning code, if you have any recommendations or tips let me know!
 
 
 ![Set your heart ablaze](https://media.tenor.com/jvbPYIiSRr4AAAAC/rengoku-kyojuro.gif)
